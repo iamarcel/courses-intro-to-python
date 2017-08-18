@@ -3,17 +3,12 @@ programming_language: python
 difficulty_level: 0
 time_needed: 4 hours
 instructors:
-  - filip@datacamp.com
-collaborators:
-  - vincent@datacamp.com
-  - patrickvarilly@datacamp.com
+  - w@mrcl.io
 description: Python is a general-purpose programming language that is becoming more and more popular
   for doing data science. Companies worldwide are using Python to harvest insights from their
   data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science.
   In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses.
   Enter DataCamp’s online Python curriculum.
-from: "python-base-prod:20"
-practice_pool_id: 107
 datasets:
   baseball.csv: MLB (baseball)
   fifa.csv: FIFA (soccer)
